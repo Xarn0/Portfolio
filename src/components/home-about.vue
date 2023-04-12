@@ -4,20 +4,20 @@ section.homeAbout.container
     .homeAbout__item
         .homeAbout__block
             .homeAbout__data
-                h3 Xarn0 is a <span>front-end</span> and  small <span>back-end developer</span> 
-                p He crafts responsive websites where technologies meet creativity
+                h3 Xarn0  <span>front-end</span>  и не большой  <span>back-end developer</span> 
+                p Он создает адаптивные веб-сайты
                 router-link(:to="{name:'contact'}").link-header-click-me 
-                    +CreateBtn("Contact me!!")
+                    +CreateBtn("Контакт со мной!")
         .homeAbout__block
             div.block__items
                 div
                     img(src="../static/image/homeaboutimage.png")
             div
-                p.prof Currently working on <span> Portfolio </span>
+                p.prof В настоящее время работает над <span> Portfolio </span>
     .homeAbout__text 
         .homeAbout__content 
             p.
-                {{"With great power comes great electricity bill"}}
+                {{"С большой мощностью, приходит большой счет за электричество"}}
             p - Dr. Who
            
             

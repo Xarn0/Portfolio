@@ -1,6 +1,6 @@
 <template lang="pug">
 .contscts-item 
-    h4 Message me here
+    h4 Мои  мессенджеры 
     p.telegram {{ telegram }}
     p.mail {{ mail }}
 
@@ -13,7 +13,7 @@ export default{
     data(){
         return{
             telegram:"@tot_91",
-            mail:"madira_a@mail.ru"
+            mail:"xouli@list.ru"
         }
     }
 }

@@ -6,7 +6,7 @@ section.homeContacts.container
                 slot 
         .homeContacts__content.public_margin
             .homeContacts__text. 
-                I’m interested in freelance opportunities. However, if you have other request or question, don’t hesitate to contact me
+                Меня интересует все ваши предложения. Однако, если у вас есть другая просьба или вопрос, не стесняйтесь обращаться ко мне.
             .homeContacts__contacts
                 .homeContacts__ItemContact
                     contacts

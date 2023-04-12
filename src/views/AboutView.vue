@@ -2,7 +2,7 @@
 include ../assets/pugmix/mixin.pug
 .container
     div.public_margin      
-        +CreatBread("about-me","Who am i")
+        +CreatBread("about-me","Кто я?")
     homeAboutPreview.public_margin
       slot
           +CreateH("about-me",false,false) 

@@ -13,7 +13,7 @@ footer.footer.public_margin
                 p Telegram:
                 p.footer__telegram. 
                     @tot_91
-                p Web designer and front-end developer
+                p Web front-end developer
             .footer__media
                 h3 media
                 ul

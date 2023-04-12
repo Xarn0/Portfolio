@@ -9,8 +9,8 @@ section.homeSkills.container
                 .homeSkills__icon-react-container
                     span.homeSkills__icon-span
         .homeSkills__skills
-            h3 Languages and Frameworks
-            p Tools and Softwares 
+            h3 Языки и фреймворки
+            p Инструменты и ПО
             ul
                 li
                     +CreateSkill("74","Javascript","../static/icon/javascript.svg")

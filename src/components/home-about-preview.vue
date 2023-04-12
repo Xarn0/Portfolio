@@ -7,11 +7,11 @@ section.homeAbouPreview.container
             slot
         .homeAbouPreview__content.homeAbouPreview__content-list
             .homeAbouPreview__text
-                h3 Hello, i’m Xarn0 !
+                h3 Привет, я Владислав(Xarn0) !
                 p.
-                   I’m a self-taught front-end developer based in Kyiv, Ukraine. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences.
+                   Я фронтенд-разработчик-самоучка, живу в Кемерово, Россия. Я могу разрабатывать адаптивные веб-сайты с нуля
                 p.
-                    Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks. 
+                    Превращение моего творчества и знаний в веб-сайты было моей страстью уже больше года. Я помогал различным клиентам установить свое присутствие в Интернете. Я всегда стремлюсь узнавать о новейших технологиях и фреймворках.
             .homeAbouPreview__img
                 img(src="../static/image/homeaboutpreview.png", alt="4", srcset="")   
 
