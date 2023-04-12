@@ -190,3 +190,19 @@
     }
     
 }
+@media(max-width:450px) {
+   
+  .container{
+    width:320px !important;
+  }
+  .homeAbout__data > h3{
+    width: auto !important;
+  }
+  .homeAbout__block{
+    width:320px !important;
+  }
+  .homeAbout__content{
+    width:320px !important;
+  }
+    
+}
